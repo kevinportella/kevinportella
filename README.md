@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+### GitHub Status
+
+<img align="center" style="margin-right: 5px;" src="https://github-readme-stats.vercel.app/api?username=kevinportella&show_icons=true&theme=dark" alt="KevinPortella" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinPortella&layout=compact&theme=dark" alt="KevinPortella" />
+
 <!--
 **kevinportella/kevinportella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
