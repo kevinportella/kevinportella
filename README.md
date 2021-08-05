@@ -9,6 +9,21 @@
 
 ### <img src="https://media.giphy.com/media/Lpu8WcJD6xGxws7Rxg/giphy.gif" width="50"> A little more about me...  
 
+```javascript
+const thai = {
+  pronouns: "she" | "her",
+  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+                        coorganizer: "AfroPython",
+                        speaker: "Latinity",
+                        mentor: "EducaTRANSforma"
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
+```
+
 ### GitHub Status
 
 <img align="center" style="margin-right: 5px;" src="https://github-readme-stats.vercel.app/api?username=kevinportella&show_icons=true&theme=dark" alt="KevinPortella" /><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinPortella&layout=compact&theme=dark" alt="KevinPortella" />
