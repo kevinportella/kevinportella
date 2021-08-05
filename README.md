@@ -4,7 +4,7 @@
 
 [![Twitter: Kevin Bohry](https://img.shields.io/twitter/follow/KevinBohry?style=social)](https://twitter.com/KevinBohry)
 [![Linkedin: kevin-bohry](https://img.shields.io/badge/-kevinbohry-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevin-bohry-58a4614b/)](https://www.linkedin.com/in/kevin-bohry-58a4614b/)
-[![GitHub Kevin Bohry](https://img.shields.io/github/followers/kevinbohry?label=follow&style=social)](https://github.com/kevinportella)
+[![GitHub Kevin Bohry](https://img.shields.io/github/followers/kevinportella?style=social)](https://github.com/kevinportella)
 
 
 ### GitHub Status
