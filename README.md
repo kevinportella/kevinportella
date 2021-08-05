@@ -15,6 +15,7 @@ const Kevin = {
   code: [Javascript, Typescript, HTML, CSS],
   tools: [React, Next, Styled-Components, SASS, ChakraUI, Jest],
   techCommunities: Rocketseat,
+  currentFocus: "Next.js",
  challenge: "Learn about React Native and then Node.js "
 }
 ```
