@@ -7,6 +7,7 @@
 [![GitHub Kevin Bohry](https://img.shields.io/github/followers/kevinportella?style=social)](https://github.com/kevinportella)
 [![Twitch Kevin Bohry](https://img.shields.io/twitch/status/kevinbohrylol?style=social)](https://www.twitch.tv/kevinbohrylol)
 
+### <img src="https://media.giphy.com/media/Lpu8WcJD6xGxws7Rxg/giphy.gif" width="50"> A little more about me...  
 
 ### GitHub Status
 
