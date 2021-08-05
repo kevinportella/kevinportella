@@ -1,6 +1,6 @@
 <h2> Hi, I'm KEvin Bohry! <img src="https://media.giphy.com/media/ln7H1lriqCTYvkvGnb/giphy.gif" width="48"></h2>
 <img align='right' src="https://media.giphy.com/media/YPJ5gi3MZzSjhtQTIk/giphy.gif" width="230">
-<p><em>Developer Front-end Jr.<img align='bottom' src="https://media.giphy.com/media/WnNCTaX3x7khhAkZXn/giphy.gif" width="50"></em></p>
+<p><em>Developer Front-end Jr.<img align='bottom' src="https://media.giphy.com/media/WnNCTaX3x7khhAkZXn/giphy.gif" width="30"></em></p>
 
 
 ### GitHub Status
