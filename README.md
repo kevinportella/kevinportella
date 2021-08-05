@@ -13,7 +13,7 @@
 const Kevin = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS],
-  tools: [React, Next.js, Styled-Components, Jest],
+  tools: [React, Next, Styled-Components, SASS, ChakraUI, Jest],
   techCommunities: Rocketseat,
  challenge: "Learn about React Native and then Node.js "
 }
