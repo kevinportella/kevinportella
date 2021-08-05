@@ -1,4 +1,5 @@
 <h2> Hi, I'm KEvin Bohry! <img src="https://media.giphy.com/media/ln7H1lriqCTYvkvGnb/giphy.gif" width="48"></h2>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
 
 ### GitHub Status
