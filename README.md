@@ -3,7 +3,7 @@
 <p><em>Developer Front-end Jr.<img align='bottom' src="https://media.giphy.com/media/WnNCTaX3x7khhAkZXn/giphy.gif" width="30"></em></p>
 
 [![Twitter: Kevin Bohry](https://img.shields.io/twitter/follow/KevinBohry?style=social)](https://twitter.com/KevinBohry)
-[![Linkedin: kevin-bohry](https://img.shields.io/badge/-kevin-bohry-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevin-bohry-58a4614b/)](https://www.linkedin.com/in/thaianebraga/)
+[![Linkedin: kevin-bohry](https://img.shields.io/badge/-kevinbohry-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevin-bohry-58a4614b/)](https://www.linkedin.com/in/thaianebraga/)
 [![GitHub Kevin Bohry](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
 
 
